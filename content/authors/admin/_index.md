@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: CSE Student
+role: Computer Science & Enginnering
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
