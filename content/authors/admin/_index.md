@@ -39,7 +39,7 @@ profiles:
     url: https://github.com/jinseok1006
 
 interests:
-  - Next-gen Web Development
+  - Web Development
   - Cloud Infrastructure
   - Virtualization
 
