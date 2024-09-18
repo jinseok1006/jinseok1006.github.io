@@ -44,7 +44,7 @@ interests:
   - Virtualization
 
 education:
-  - area: 
+  - area: Computer Science & Eginnering
     institution: Jeonbuk National University
     date_start: 2020-03-01
     date_end: 2026-02-29
