@@ -44,10 +44,10 @@ interests:
   - Virtualization
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: 
+    institution: Jeonbuk National University
+    date_start: 2020-03-01
+    date_end: 2026-02-29
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
