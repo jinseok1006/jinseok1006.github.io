@@ -13,7 +13,7 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: ""
+      text: "<h2>About Me</h2> <p>이러면 니가 뭘할 수 있는데</p>"
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
@@ -30,6 +30,21 @@ sections:
           size: cover
           position: center
           parallax: false
+  - block: cta-button-list
+    content:
+      # Need a custom icon?
+      # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
+      buttons:
+        - text: Read my latest paper on LLMs
+          icon: academicons/arxiv
+          url: https://arxiv.org/abs/2304.01852
+        - text: Watch my new YouTube video to achieve 20x productivity
+          icon: brands/youtube
+          url: https://youtube.com
+        - text: Connect with me on LinkedIn
+          icon: brands/linkedin
+          url: https://linkedin.com
+          
   - block: markdown
     content:
       title: '📚 My Research'
@@ -42,6 +57,7 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
+      
   - block: collection
     id: papers
     content:
@@ -53,6 +69,7 @@ sections:
     design:
       view: article-grid
       columns: 2
+
   - block: collection
     content:
       title: Recent Publications
@@ -63,6 +80,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
+
   - block: collection
     id: talks
     content:
@@ -73,6 +91,7 @@ sections:
     design:
       view: article-grid
       columns: 1
+
   - block: collection
     id: news
     content:
