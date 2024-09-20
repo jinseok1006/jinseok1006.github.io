@@ -5,6 +5,8 @@
 
 # Appearance
 appearance:
+  theme_day: minial
+  theme_night: minial
   mode: system
   color: emerald
   font: pretendard
@@ -36,7 +38,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Kim Jinseok"
 
 # Site footer
 footer:
