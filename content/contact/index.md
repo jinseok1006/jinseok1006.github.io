@@ -13,20 +13,21 @@ sections:
       email: test@example.org
       phone: 888 888 88 88
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: 567, Baekje-daero, Deokjin-gu
+        city: Jeonju
+        region: Jeollabuk-do
+        postcode: '54896'
+        country: South Korea
+        country_code: KR
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        latitude: '35.8457955'
+        longitude: '127.129637'
+      directions: Enter the main gate and proceed to the College of Computer Science building.      
       office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
       appointment_url: 'https://calendly.com'
+      
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
