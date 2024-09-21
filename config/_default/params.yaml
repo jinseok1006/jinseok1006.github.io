@@ -4,6 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
+<<<<<<< HEAD
 appearance:
   mode: system
   color: emerald
@@ -15,18 +16,41 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+=======
+
+appearance:
+  theme_day: minimal
+  theme_night:
+  font: native
+  font_size: L
+
+# SEO
+
+marketing:
+  seo:
+    site_type: Organization
+    local_business_type: ''
+    org_name: ''
+    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
+>>>>>>> 2da719d (Initial commit)
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
+<<<<<<< HEAD
     plausible: ''
     fathom: ''
     pirsch: ''
+=======
+    google_tag_manager: ''
+    microsoft_clarity: ''
+>>>>>>> 2da719d (Initial commit)
   verification:
     google: ''
     baidu: ''
 
 # Site header
+<<<<<<< HEAD
 header:
   navbar:
     enable: true
@@ -38,6 +62,21 @@ header:
       text: "Your Name"
 
 # Site footer
+=======
+
+header:
+  navbar:
+    enable: true
+    align: r
+    show_logo: true
+    show_language: false
+    show_day_night: true
+    show_search: true
+    highlight_active_link: false
+
+# Site footer
+
+>>>>>>> 2da719d (Initial commit)
 footer:
   copyright:
     notice: '© {year} Me. This work is licensed under {license}'
@@ -48,13 +87,78 @@ footer:
       allow_commercial: false
 
 # Localization
+<<<<<<< HEAD
 locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
 
 # Site features
 features:
+=======
+
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
+  address_format: en-us
+
+# Site features
+
+features:
+  syntax_highlighter:
+    enable: false
+    extra_languages:
+      - r
+      - latex
+>>>>>>> 2da719d (Initial commit)
   math:
     enable: false
   privacy_pack:
     enable: false
+<<<<<<< HEAD
+=======
+  repository:
+    url: 'https://github.com/<username>/<repository>'
+    content_dir: content
+    branch: main
+  avatar:
+    gravatar: false
+    shape: circle
+  comment:
+    provider: ''
+    disqus:
+      shortname: ''
+      show_count: true
+    commento:
+      url: ''
+    giscus:
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+  map:
+    provider: 'mapnik'
+    api_key: ''
+    zoom: 15
+
+# Extensions
+
+extensions:
+  decap_cms:
+    branch: main
+    local_backend: false
+  academicons:
+    enable: true
+
+# Citation style
+
+publications:
+  date_format: January 2006
+  citation_style: apa
+>>>>>>> 2da719d (Initial commit)
