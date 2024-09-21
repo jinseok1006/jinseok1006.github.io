@@ -9,24 +9,23 @@ sections:
     content:
       title: Contact
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
+        연락이 필요하시다면 아래의 정보를 참고해주세요.
+      email: jinseok1006@jbnu.ac.kr
       address:
-        street: 567, Baekje-daero, Deokjin-gu
-        city: Jeonju
-        region: Jeollabuk-do
+        street: 전북대학교 공과대학 7호관 618호 운영체제 연구실
+        city: 전주시
+        region: 전라북도
         postcode: '54896'
-        country: South Korea
-        country_code: KR
+        country: 대한민국
+        country_code: KO
       coordinates:
-        latitude: '35.8457955'
-        longitude: '127.129637'
+        latitude: '35.84601324617979'
+        longitude: '127.13444961966684'
       directions: Enter the main gate and proceed to the College of Computer Science building.      
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
+      # office_hours:
+      #   - 'Monday 10:00 to 13:00'
+      #   - 'Wednesday 09:00 to 10:00'
+      # appointment_url: 'https://calendly.com'
       
       #contact_links:
       #  - icon: comments
