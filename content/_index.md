@@ -24,6 +24,7 @@ sections:
       text: |-
         <br>
         The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+
   - block: slider
     content:
       slides:
@@ -64,7 +65,7 @@ sections:
           url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
+      slide_height: '400px'
       is_fullscreen: true
       # Automatically transition through slides?
       loop: false
