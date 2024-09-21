@@ -30,6 +30,8 @@ sections:
           size: cover
           position: center
           parallax: false
+
+  
   - block: cta-button-list
     content:
       # Need a custom icon?
@@ -44,7 +46,7 @@ sections:
         - text: Connect with me on LinkedIn
           icon: brands/linkedin
           url: https://linkedin.com
-          
+
   - block: markdown
     content:
       title: '📚 My Research'
