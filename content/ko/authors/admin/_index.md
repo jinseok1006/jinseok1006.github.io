@@ -22,24 +22,22 @@ organizations:
     url: 'https://csai.jbnu.ac.kr/csai/index.do'
 
 # Short bio (displayed in user profile at end of posts)
-bio: 연합학습 및 표현 학습을 사용한 medical 도메인에서의 딥 러닝 기법, 도메인 적응 및 테스트 타임 학습과 같은 딥 러닝 기반 컴퓨터 비전 응용, 이미지 처리 및 이미지-텍스트 캡셔닝을 포함한 의료 응용의 딥 러닝 기반 진단 등을 포함합니다.
+bio: 전북대학교 컴퓨터공학과에 재학 중이며, 웹 개발, 가상화 기술, 그리고 클라우드 인프라에 깊은 관심을 가지고 있습니다. NestJS 같은 프레임워크를 활용한 웹 서비스 구축에 집중하고 있으며, 가상 머신과 컨테이너 기술을 통해 효율적인 클라우드 인프라 설계 방법을 연구하고 있습니다. 또한, DevOps 도구와 클라우드 기술에 대한 지식을 꾸준히 확장하고 있습니다.
 
 interests:
-  - 인공지능 (AI)
-  - Vision & Language
-  - 의료수학 (Medical Mathematics)
-  - 항공우주 (Aerospace)
-  - 컨텐츠 (Contents)
-  - 개발 (Development & Deploy)
-
+  - 웹 개발(Web Development)
+  - 가상화(Virtualizatino)
+  - 컨테이너(Container)
+  - 클라우드 인프라(Cloud Infrastructure)
+  
 education:
   courses:
-    - course: Integrated M.S. & Ph.D. in (전기전자컴퓨터공학과)
-      institution: 대구경북과학기술원 (DGIST)
-      year: 2018 - 2023
-    - course: B.S. in (전산전자공학부)
-      institution: 한동대학교
-      year: 2014 - 2018
+    - course: B.S. in (컴퓨터공학부)
+      institution: 전북대학교
+      year: 2020 ~ 현재
+    # - course: B.S. in (전산전자공학부)
+    #   institution: 한동대학교
+    #   year: 2014 - 2018
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,16 +46,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:ksl@jbnu.ac.kr'
-  - icon: google-scholar
+    link: 'mailto:jinseok1006@jbnu.ac.kr'
+  - icon: github
     icon_pack: ai
-    link: https://scholar.google.co.kr/citations?hl=ko&user=Srg-7JMAAAAJ&view_op=list_works&authuser=3&gmla=AKKJWFdKkn6oOSodKydbVjFB9IpHqHHucjz06KnXACXkcsad_elmO3TnVclXh3i46QOPtpevNt2mKEReoILewOZrWPw38nBujERgFLA6D1JXhmVcGPzUiQU4Fg
-  - icon: orcid
-    icon_pack: ai
-    link: https://orcid.org/0009-0000-7223-0903
-  - icon: cv
-    icon_pack: ai
-    link: https://kyungsu-lee.s3.ap-northeast-2.amazonaws.com/%5BCV%5D+Kyungsu+Lee.pdf
+    link: https://www.github.com/jinseok1006
+  # - icon: orcid
+  #   icon_pack: ai
+  #   link: https://orcid.org/0009-0000-7223-0903
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: https://kyungsu-lee.s3.ap-northeast-2.amazonaws.com/%5BCV%5D+Kyungsu+Lee.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,7 +63,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'ksl@jbnu.ac.kr'
+email: 'jinseok1006@jbnu.ac.kr'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -78,4 +76,4 @@ user_groups:
 
 ---
 
-Fine-Tuning Deep Learning Network for Multi-Domain and Multi-Task Applications이라는 제목의 논문으로 2023년 대구경북과학기술원에서 통합 석사 및 박사 학위를 받았습니다. 2024년에 전북대학교 컴퓨터인공지능학부에 조교수 position으로 임명받고 현재까지 근무하고 있습니다. 연구 분야는 연합학습 및 표현 학습을 사용한 medical 도메인에서의 딥 러닝 기법, 도메인 적응 및 테스트 타임 학습과 같은 딥 러닝 기반 컴퓨터 비전 응용, 이미지 처리를 포함하고 있으며, AI의 이론부터 다양한 특성화 분야의 어플리케이션까지 넓은 범위를 포함하고 있습니다. 
+전북대학교 컴퓨터공학과에 재학 중이며, 웹 개발, 가상화 기술, 그리고 클라우드 인프라에 깊은 관심을 가지고 있습니다. NestJS 같은 프레임워크를 활용한 웹 서비스 구축에 집중하고 있으며, 가상 머신과 컨테이너 기술을 통해 효율적인 클라우드 인프라 설계 방법을 연구하고 있습니다. 또한, DevOps 도구와 클라우드 기술에 대한 지식을 꾸준히 확장하고 있습니다. 
