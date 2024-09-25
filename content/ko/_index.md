@@ -70,6 +70,25 @@ sections:
       loop: true
       # Duration of transition between slides (in ms)
       interval: 2000
+
+  - block: features
+    content:
+      title: <span style="font-size:75%">관심분야</span>
+      text: 저희 연구실에서는 주로 다음과 같은 IT 분야에 관심을 가지고 공부하고 있습니다.<br><br><br>
+      items:
+        - name: 가상화
+          icon: server
+          icon_pack: fas
+          description: <span style="font-size:90%">서버 가상화와 클라우드 환경의 기본적인 개념과 응용 방법을 학습합니다.</span><br><br>
+        - name: 도커
+          icon: docker
+          icon_pack: fab
+          description:  <span style="font-size:90%">도커를 활용한 컨테이너 기술과 DevOps 기초를 배웁니다.</span><br><br>
+        - name: 클라우드 인프라
+          icon: cloud
+          icon_pack: fa-solid
+          description:  <span style="font-size:90%">AWS와 같은 클라우드 플랫폼을 사용한 인프라 관리 및 서비스 배포 방법을 학습합니다.</span><br><br>
+
   
   - block: collection
     content:
