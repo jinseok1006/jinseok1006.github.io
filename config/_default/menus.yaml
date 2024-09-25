@@ -12,14 +12,15 @@ main:
     url: post
     weight: 20
 
-  - name: Resume
-    weight: 30
+
   - name: Experience
-    parent: Resume
+
     weight: 31
   - name: Projects
-    parent: Resume
     weight: 32
+  
+  - name: Skills
+  # - name: Certificates
   
 
   - name: People
