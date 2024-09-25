@@ -83,23 +83,23 @@ sections:
         - name: 도커
           icon: docker
           icon_pack: fab
-          description:  도커를 활용한 컨테이너 기술 및 DevOps 활용
+          description:  도커를 활용한 컨테이너 및 배포 간소화
         - name: 클라우드 인프라
           icon: cloud
           icon_pack: fas
           description:  AWS, Openstack 등의 클라우드 플랫폼을 사용한 인프라 관리 및 서비스 배포
         - name: 웹 개발
-          icon: globe-pointer
+          icon: globe
           icon_pack: fas
-          description: React 및 Typescript를 이용한 컴포넌트 방식의 구조화된 웹페이지 작성
+          description: React를 이용한 컴포넌트 방식의 구조화된 웹페이지 작성
         - name: CI/CD
           icon: rotate
           icon_pack: fas
-          description:  도커를 활용한 컨테이너 기술 및 DevOps 활용
+          description:  도커와 연계되는 지속적 통합 및 배포
         - name: 네트워크
           icon: network-wired
           icon_pack: fas
-          description:  AWS, Openstack 등의 클라우드 플랫폼을 사용한 인프라 관리 및 서비스 배포
+          description:  클라우드 환경에서 사용되는 다양한 네트워크 지식
 
   
   - block: collection
@@ -159,7 +159,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./contact" cta_text="Contact me" %}}
     design:
       columns: '1'
 ---
