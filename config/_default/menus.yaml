@@ -7,9 +7,21 @@ main:
   - name: About Me
     url: author/김진석
     weight: 15
-  - name: News
+
+  - name: Blog
     url: post
     weight: 20
+
+  - name: Resume
+    weight: 30
+  - name: Experience
+    parent: Resume
+    weight: 31
+  - name: Projects
+    parent: Resume
+    weight: 32
+  
+
   - name: People
     url: people
     weight: 30
@@ -19,6 +31,7 @@ main:
   - name: Publications
     url: publication
     weight: 50
+    
   - name: Contact
     url: contact
     weight: 60
