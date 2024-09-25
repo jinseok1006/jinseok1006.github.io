@@ -22,7 +22,7 @@ name = "my_theme"
   link = "#bbdefb"
   link_hover = "#bbdefb"
 
-  menu_primary = "rgb(37, 42, 63)"
+  menu_primary = "rgb(41, 46, 68)"
 
   home_section_odd = "rgb(34, 38, 57)"
   home_section_even = "rgb(27, 30, 46)" 
