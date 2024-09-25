@@ -86,19 +86,19 @@ sections:
           description:  도커를 활용한 컨테이너 기술 및 DevOps 활용
         - name: 클라우드 인프라
           icon: cloud
-          icon_pack: fa-solid
+          icon_pack: fas
           description:  AWS, Openstack 등의 클라우드 플랫폼을 사용한 인프라 관리 및 서비스 배포
         - name: 웹 개발
           icon: globe-pointer
-          icon_pack: fa-solid
+          icon_pack: fas
           description: React 및 Typescript를 이용한 컴포넌트 방식의 구조화된 웹페이지 작성
         - name: CI/CD
           icon: rotate
-          icon_pack: fa-solid
+          icon_pack: fas
           description:  도커를 활용한 컨테이너 기술 및 DevOps 활용
         - name: 네트워크
           icon: network-wired
-          icon_pack: fa-solid
+          icon_pack: fas
           description:  AWS, Openstack 등의 클라우드 플랫폼을 사용한 인프라 관리 및 서비스 배포
 
   
