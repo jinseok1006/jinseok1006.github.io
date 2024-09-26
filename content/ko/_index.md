@@ -151,7 +151,7 @@ sections:
           - publication
         publication_type: 'article'
     design:
-      view: community/card
+      view: community/article-grid
       columns: '2'
 
   - block: markdown
