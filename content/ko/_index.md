@@ -149,7 +149,7 @@ sections:
       filters:
         folders:
           - publication
-        publication_type: 'article'
+        # publication_type: 'article'
     design:
       view: community/article-grid
       columns: '2'
