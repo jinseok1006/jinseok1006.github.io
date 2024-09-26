@@ -14,7 +14,7 @@ authors:
 superuser: true
 
 # Role/position
-role: student
+role: 학부연구생
 
 # Organizations/Affiliations
 organizations:
@@ -50,20 +50,21 @@ social:
   - icon: github
     icon_pack: fab
     link: https://www.github.com/jinseok1006
-  - icon: file
-    icon_pack: fas
+  - icon: cv
+    icon_pack: ai
     link: 'uploads/resume.pdf'
+  # - icon: file
+  #   icon_pack: fas
+  #   link: 'uploads/resume.pdf'
   # - icon: orcid
   #   icon_pack: ai
   #   link: https://orcid.org/0009-0000-7223-0903
   # - icon: cv
   #   icon_pack: ai
   #   link: https://kyungsu-lee.s3.ap-northeast-2.amazonaws.com/%5BCV%5D+Kyungsu+Lee.pdf
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  # Link to a PDF of your resume/CV from the About widget.
+  # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+  
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'jinseok1006@jbnu.ac.kr'
