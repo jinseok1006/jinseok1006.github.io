@@ -14,6 +14,9 @@ sections:
       # text: |-
       #   👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
       #   {style="font-size: 1.2rem; color: #FFB76B;"}
+      button:
+        text: Download CV
+        url: uploads/resume.pdf
   - block: hero
     content:
       title: |
@@ -80,7 +83,7 @@ sections:
           icon: server
           icon_pack: fas
           description: 서버 가상화와 클라우드 환경에서의 효율적인 자원 관리
-        - name: 도커
+        - name: 컨테이너
           icon: docker
           icon_pack: fab
           description:  도커를 활용한 컨테이너 및 배포 간소화
