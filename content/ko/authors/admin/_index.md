@@ -48,8 +48,11 @@ social:
     icon_pack: fas
     link: 'mailto:jinseok1006@jbnu.ac.kr'
   - icon: github
-    icon_pack: ai
+    icon_pack: fab
     link: https://www.github.com/jinseok1006
+  - icon: file
+    icon_pack: fas
+    link: 'uploads/resume.pdf'
   # - icon: orcid
   #   icon_pack: ai
   #   link: https://orcid.org/0009-0000-7223-0903
