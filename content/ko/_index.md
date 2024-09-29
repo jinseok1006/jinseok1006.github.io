@@ -17,16 +17,16 @@ sections:
       button:
         text: Download CV
         url: uploads/resume.pdf
-  - block: hero
-    content:
-      title: |
-        Wowchemy
-        Research Group
-      image:
-        filename: welcome.jpg
-      text: |-
-        <br>
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+  # - block: hero
+  #   content:
+  #     title: |
+  #       Wowchemy
+  #       Research Group
+  #     image:
+  #       filename: welcome.jpg
+  #     text: |-
+  #       <br>
+  #       The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
 
   - block: slider
     content:
@@ -43,7 +43,7 @@ sections:
           color: '#666'
 
       - title: 클라우드 인프라
-        content: 클라우드 인프라에 대해 학습합니다.
+        content: 클라우드 인프라에 대해 학습하고 있습니다.
         align: left
         background:
           image:
@@ -54,7 +54,7 @@ sections:
           color: '#555'
 
       - title: 가상화 및 컨테이너
-        content: 가상화와 컨테이너 기술에 대해 학습합니다.
+        content: 가상화와 컨테이너 기술에 대해 학습하고 있습니다.
         align: left
         background:
           image:
@@ -65,8 +65,8 @@ sections:
           color: '#333'
 
       - title: 웹 개발
-        content: React를 활용한 컴포넌트식 개발에 대해 학습힙니다.
-        align: left
+        content: React를 활용한 컴포넌트식 개발에 대해 학습하고 있습니다.
+        align: left 
         background:
           image:
             filename: coding.jpg
