@@ -7,7 +7,7 @@
   {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
 {{ end }}
 
-{{ $resource := partial "functions/get_featured_image.html" $item }}
+{{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
 {{ $anchor := $item.Params.image.focal_point | default "Center" }}
 
 <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="mb-5">
