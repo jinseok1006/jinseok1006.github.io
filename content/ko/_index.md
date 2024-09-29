@@ -121,11 +121,11 @@ sections:
       order: desc
       page_type: post
     design:
-      view: card
-      columns: '1'
+      view: community/card
+      columns: '2'
   
   # - block: markdown
-  #   content:
+  #   content:  
   #     title:
   #     subtitle: ''
   #     text:
@@ -154,8 +154,8 @@ sections:
   #         - publication
   #       publication_type: 'article'
   #   design:
-  #     view: citation
-  #     columns: '1'
+  #     view: community/article-grid
+  #     columns: '2'
 
   - block: markdown
     content:

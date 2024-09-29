@@ -1,0 +1,34 @@
+{{ $item := .item }}
+
+{{ $link := $item.RelPermalink }}
+{{ $target := "" }}
+{{ if $item.Params.external_link }}
+  {{ $link = $item.Params.external_link }}
+  {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+{{ end }}
+
+{{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
+{{ $anchor := $item.Params.image.focal_point | default "Center" }}
+
+<div class="card mb-4 shadow-sm">
+  <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="text-decoration-none">
+    <div class="row g-0 card-body">
+      <div class="col-md-4 d-flex align-items-center">
+        {{ with $resource }}
+          {{ $image := .Fill (printf "655x655 %s" $anchor) }}
+          {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
+          <img src="{{ $image.RelPermalink }}" class="img-fluid rounded-start" alt="{{ $item.Title | plainify }}">
+        {{ end }}
+      </div>
+      <div class="col-md-8">
+        <div class="">
+          <h5 class="card-title text-primary">{{ $item.Title }}</h5>
+          <p class="card-text">{{ ($item.Params.summary | default $item.Summary) | plainify | htmlUnescape | chomp }}</p>
+          <p class="card-text">
+            <small class="text-muted">{{ $item.Date | time.Format (site.Params.locale.date_format | default ":date_long") }}</small>
+          </p>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
