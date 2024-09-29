@@ -143,7 +143,7 @@ sections:
           - publication
         publication_type: 'article'
     design:
-      view: community/article-grid
+      view: community/card
       columns: '2'
 
   - block: markdown
