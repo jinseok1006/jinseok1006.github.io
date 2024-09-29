@@ -116,9 +116,9 @@ sections:
         tag: ''
       offset: 0
       order: desc
-      # page_type: post
+      page_type: post
     design:
-      view: community/card-grid
+      view: community/card
       columns: '2'
   
   # - block: markdown
@@ -141,18 +141,18 @@ sections:
   #       padding: ['20px', '0', '20px', '0']
   #     css_class: fullscreen
 
-  - block: collection
-    content:
-      title: Latest Preprints
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        # publication_type: 'article'
-    design:
-      view: community/article-grid
-      columns: '2'
+  # - block: collection
+  #   content:
+  #     title: Latest Preprints
+  #     text: ""
+  #     count: 5
+  #     filters:
+  #       folders:
+  #         - publication
+  #       publication_type: 'article'
+  #   design:
+  #     view: community/article-grid
+  #     columns: '2'
 
   - block: markdown
     content:
