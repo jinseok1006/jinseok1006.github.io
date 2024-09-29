@@ -11,7 +11,7 @@
 {{ $anchor := $item.Params.image.focal_point | default "Center" }}
 
 <div class="card mb-4 shadow-sm">
-  <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="card text-decoration-none bg-dark text-light mb-4 shadow-sm h-100 hover-shadow">
+  <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="text-decoration-none">
     <div class="row g-0 card-body">
       <div class="col-md-4 d-flex align-items-center">
         {{ with $resource }}
@@ -21,9 +21,9 @@
         {{ end }}
       </div>
       <div class="col-md-8">
-        <div >
+        <div class="">
           <h5 class="card-title">{{ $item.Title }}</h5>
-          <p class="card-text text-light">{{ ($item.Params.summary | default $item.Summary) | plainify | htmlUnescape | chomp }}</p>
+          <p class="card-text text-dark">{{ ($item.Params.summary | default $item.Summary) | plainify | htmlUnescape | chomp }}</p>
           <p class="card-text">
             <small class="text-muted">{{ $item.Date | time.Format (site.Params.locale.date_format | default ":date_long") }}</small>
           </p>
@@ -31,5 +31,4 @@
       </div>
     </div>
   </a>
-  
 </div>
