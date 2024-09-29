@@ -31,41 +31,50 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 안녕하세요
-        content: Take a look at what we're working on...
+      - title: 👋 안녕하세요!
+        content: 김진석의 포트폴리오 페이지입니다!
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: working.jpg
             filters:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+
+      - title: 클라우드 인프라
+        content: 클라우드 인프라에 대해 학습합니다.
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: datacenter.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
-        align: right
+
+      - title: 가상화 및 컨테이너
+        content: 가상화와 컨테이너 기술에 대해 학습합니다.
+        align: left
         background:
           image:
-            filename: welcome.jpg
+            filename: linux.jpg
             filters:
-              brightness: 0.5
+              brightness: 0.7
           position: center
           color: '#333'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
+
+      - title: 웹 개발
+        content: React를 활용한 컴포넌트식 개발에 대해 학습힙니다.
+        align: left
+        background:
+          image:
+            filename: coding.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#333'
+
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: '400px'
@@ -123,39 +132,19 @@ sections:
     design:
       view: community/card
       columns: '2'
-  
-  # - block: markdown
-  #   content:  
-  #     title:
-  #     subtitle: ''
-  #     text:
-  #   design:
-  #     columns: '1'
-  #     background:
-  #       image: 
-  #         filename: coders.jpg
-  #         filters:
-  #           brightness: 1
-  #         parallax: false
-  #         position: center
-  #         size: cover
-  #         text_color_light: true
-  #     spacing:
-  #       padding: ['20px', '0', '20px', '0']
-  #     css_class: fullscreen
 
-  # - block: collection
-  #   content:
-  #     title: Latest Preprints
-  #     text: ""
-  #     count: 5
-  #     filters:
-  #       folders:
-  #         - publication
-  #       publication_type: 'article'
-  #   design:
-  #     view: community/article-grid
-  #     columns: '2'
+  - block: collection
+    content:
+      title: Latest Preprints
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - publication
+        publication_type: 'article'
+    design:
+      view: community/article-grid
+      columns: '2'
 
   - block: markdown
     content:
