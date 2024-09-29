@@ -118,7 +118,7 @@ sections:
       order: desc
       page_type: post
     design:
-      view: community/card
+      view: community/card-grid
       columns: '2'
   
   # - block: markdown
