@@ -118,11 +118,11 @@ sections:
       order: desc
       page_type: post
     design:
-      view: community/card-grid
+      view: community/card
       columns: '2'
   
   # - block: markdown
-  #   content:
+  #   content:  
   #     title:
   #     subtitle: ''
   #     text:
