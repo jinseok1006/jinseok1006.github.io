@@ -83,37 +83,37 @@ skills:
     items:
     - name: Python
       description: ''
-      percent: 80
+      percent: 60
       icon: python
       icon_pack: fab
-    - name: Data Science
+    - name: Node.js
       description: ''
-      percent: 100
-      icon: chart-line
-      icon_pack: fas
-    - name: SQL
+      percent: 70
+      icon: node
+      icon_pack: fa-brands
+    - name: React
       description: ''
-      percent: 40
-      icon: database
-      icon_pack: fas
+      percent: 70
+      icon: react
+      icon_pack: fa-brands
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: playing Piano
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 40
+        icon: music
         icon_pack: fas
-      - name: Cats
+      - name: watching movie
         description: ''
-        percent: 100
-        icon: cat
+        percent: 50
+        icon: flim
         icon_pack: fas
-      - name: Photography
+      - name: playing game
         description: ''
-        percent: 80
-        icon: camera-retro
+        percent: 50
+        icon: gamepad
         icon_pack: fas
 ---
 
