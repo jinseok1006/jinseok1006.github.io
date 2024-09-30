@@ -78,6 +78,43 @@ user_groups:
   - admin
 
 
+skills:
+  - name: Technical
+    items:
+    - name: Python
+      description: ''
+      percent: 80
+      icon: python
+      icon_pack: fab
+    - name: Data Science
+      description: ''
+      percent: 100
+      icon: chart-line
+      icon_pack: fas
+    - name: SQL
+      description: ''
+      percent: 40
+      icon: database
+      icon_pack: fas
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-hiking
+        icon_pack: fas
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+        icon_pack: fas
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera-retro
+        icon_pack: fas
 ---
 
 전북대학교 컴퓨터공학과에 재학 중이며, 웹 개발, 가상화 기술, 그리고 클라우드 인프라에 깊은 관심을 가지고 있습니다. NestJS 같은 프레임워크를 활용한 웹 서비스 구축에 집중하고 있으며, 가상 머신과 컨테이너 기술을 통해 효율적인 클라우드 인프라 설계 방법을 연구하고 있습니다. 또한, DevOps 도구와 클라우드 기술에 대한 지식을 꾸준히 확장하고 있습니다. 
