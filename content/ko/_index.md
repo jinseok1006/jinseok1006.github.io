@@ -133,19 +133,6 @@ sections:
       view: community/card
       columns: '2'
 
-  # - block: collection
-  #   content:
-  #     title: Latest Preprints
-  #     text: ""
-  #     count: 5
-  #     filters:
-  #       folders:
-  #         - publication
-  #       publication_type: 'article'
-  #   design:
-  #     view: community/card
-  #     columns: '2'
-
   - block: experience
     content:
       title: Experience
@@ -178,6 +165,20 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
+
+  # - block: collection
+  #   content:
+  #     title: Latest Preprints
+  #     text: ""
+  #     count: 5
+  #     filters:
+  #       folders:
+  #         - publication
+  #       publication_type: 'article'
+  #   design:
+  #     view: community/card
+  #     columns: '2'
+
 
   - block: markdown
     content:
