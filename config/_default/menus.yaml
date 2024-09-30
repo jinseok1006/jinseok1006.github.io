@@ -15,12 +15,15 @@ main:
   - name: Projects
     url: project
     weight: 20
+
   - name: Experience
   - weight: 30
   - name: Works
+    parent: Experience
+    url: works
     weight: 31
-
   - name: Education
+    parent: Experience
     url: education
     weight: 32
   
