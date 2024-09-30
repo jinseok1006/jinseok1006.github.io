@@ -22,9 +22,9 @@ main:
     parent: Experience
     url: event
     weight: 31
-  - name: Education
+  - name: Skill
     parent: Experience
-    url: education
+    url: skill
     weight: 32
   
   
