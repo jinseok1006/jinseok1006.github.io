@@ -53,7 +53,7 @@ sections:
           date_end: ''
           date_start: '2024-09-20'
           description: ''
-          icon: coursera
+          icon: kdata
           organization: kdata
           organization_url: https://www.dataq.or.kr
           url: ''
