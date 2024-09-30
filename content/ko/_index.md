@@ -14,9 +14,6 @@ sections:
       # text: |-
       #   👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
       #   {style="font-size: 1.2rem; color: #FFB76B;"}
-      button:
-        text: Download CV
-        url: uploads/hw.pdf
   # - block: hero
   #   content:
   #     title: |

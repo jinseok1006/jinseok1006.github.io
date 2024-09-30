@@ -52,7 +52,7 @@ social:
     link: https://www.github.com/jinseok1006
   - icon: cv
     icon_pack: ai
-    link: 'uploads/resume.pdf'
+    link: 'uploads/hw.pdf'
   # - icon: file
   #   icon_pack: fas
   #   link: 'uploads/resume.pdf'
