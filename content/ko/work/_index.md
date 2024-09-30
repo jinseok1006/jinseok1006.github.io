@@ -61,7 +61,7 @@ sections:
           date_start: '2022-09-29'
           description: Achieved top position in the programming contest for freshmen, showcasing proficiency in problem-solving and algorithm design.
           icon: univ
-          organization: Department of Computer Science and Artificial Intelligence, Jeonbuk National University
+          organization: Department of IT Intelligence Information Engineering, Jeonbuk National University
           organization_url: https://it.jbnu.ac.kr
           url: ''
 

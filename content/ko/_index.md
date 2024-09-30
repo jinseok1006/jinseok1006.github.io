@@ -38,7 +38,7 @@ sections:
           image:
             filename: working.jpg
             filters:
-              brightness: 0.7
+              brightness: 0.5
           position: right
           color: '#666'
 
@@ -49,7 +49,7 @@ sections:
           image:
             filename: datacenter.jpg
             filters:
-              brightness: 0.7
+              brightness: 0.5
           position: center
           color: '#555'
 
@@ -60,7 +60,7 @@ sections:
           image:
             filename: linux.jpg
             filters:
-              brightness: 0.7
+              brightness: 0.5
           position: center
           color: '#333'
 
@@ -71,7 +71,7 @@ sections:
           image:
             filename: coding.jpg
             filters:
-              brightness: 0.7
+              brightness: 0.5
           position: center
           color: '#333'
 
