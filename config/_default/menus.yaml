@@ -6,33 +6,28 @@
 main:
   - name: About Me
     url: author/김진석
-    weight: 15
+    weight: 10
 
-  - name: Blog
+  # - name: Blog
+  #   url: post
+  #   weight: 20
+
+  - name: Projects
     url: post
     weight: 20
 
-
   - name: Experience
-
+    weight: 30
+  - name: Works
+    parent: Experience
+    url: event
     weight: 31
-  - name: Projects
+  - name: Skill
+    parent: Experience
+    url: skill
     weight: 32
   
-  - name: Skills
-  # - name: Certificates
   
-
-  - name: People
-    url: people
-    weight: 30
-  - name: Events
-    url: event
-    weight: 40
-  - name: Publications
-    url: publication
-    weight: 50
-    
   - name: Contact
     url: contact
-    weight: 60
+    weight: 40
