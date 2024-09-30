@@ -90,12 +90,12 @@ skills:
       description: ''
       percent: 70
       icon: node
-      icon_pack: fa-brands
+      icon_pack: fab
     - name: React
       description: ''
       percent: 70
       icon: react
-      icon_pack: fa-brands
+      icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -108,7 +108,7 @@ skills:
       - name: watching movie
         description: ''
         percent: 50
-        icon: flim
+        icon: film
         icon_pack: fas
       - name: playing game
         description: ''
