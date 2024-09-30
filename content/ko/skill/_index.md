@@ -1,5 +1,5 @@
 ---
-title: My page
+title: Skills
 type: landing
 
 banner:
