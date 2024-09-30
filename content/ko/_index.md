@@ -16,7 +16,7 @@ sections:
       #   {style="font-size: 1.2rem; color: #FFB76B;"}
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/hw.pdf
   # - block: hero
   #   content:
   #     title: |
@@ -116,7 +116,7 @@ sections:
   
   - block: collection
     content:
-      title: Latest News
+      title: Projects
       subtitle:
       text:
       count: 5
