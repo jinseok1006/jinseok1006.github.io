@@ -13,14 +13,14 @@ main:
   #   weight: 20
 
   - name: Projects
-    url: project
+    url: post
     weight: 20
 
   - name: Experience
-  - weight: 30
+    weight: 30
   - name: Works
     parent: Experience
-    url: works
+    url: event
     weight: 31
   - name: Education
     parent: Experience
