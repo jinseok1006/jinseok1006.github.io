@@ -48,32 +48,23 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Neural Networks and Deep Learning
-          certificate_url: https://www.coursera.org
+        - title: SQL Developer
+          certificate_url: 
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2024-09-20'
           description: ''
           icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
+          organization: kdata
+          organization_url: https://www.dataq.or.kr
           url: ''
-        - title: Blockchain Fundamentals
-          certificate_url: https://www.edx.org
+        - title: CSAI Hacking Contest 2nd place
+          certificate_url: 
           date_end: ''
-          date_start: '2021-01-01'
+          date_start: '2023/12/21'
           description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - title: 'Object-Oriented Programming in R'
-          certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
+          icon: univ
+          organization: Dept of Computer Science and Articial Intelligence, Jeonbuk National University
+          organization_url: https://csai.jbnu.ac.kr
           url: ''
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
