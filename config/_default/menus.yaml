@@ -20,7 +20,7 @@ main:
     weight: 30
   - name: Works
     parent: Experience
-    url: event
+    url: work
     weight: 31
   - name: Skill
     parent: Experience
