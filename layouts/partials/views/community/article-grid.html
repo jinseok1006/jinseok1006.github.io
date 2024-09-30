@@ -1,7 +1,7 @@
 {{ $item := .item }}
 {{ $fill_image := .config.fill_image | default true }}
 
-{{ $resource := partial "functions/get_featured_image.html" $item }}
+{{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
 {{ $anchor := $item.Params.image.focal_point | default "Center" }}
 
 {{ $link := $item.Params.external_link | default $item.RelPermalink }}
