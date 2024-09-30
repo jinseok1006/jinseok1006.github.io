@@ -18,9 +18,9 @@ main:
 
   - name: Experience
     weight: 30
-  - name: Works
+  - name: Accomplishments
     parent: Experience
-    url: work
+    url: accomplishment
     weight: 31
   - name: Skill
     parent: Experience
