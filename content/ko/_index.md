@@ -130,7 +130,7 @@ sections:
       order: desc
       page_type: post
     design:
-      view: showcase
+      view: community/card
       columns: '2'
 
   - block: experience
