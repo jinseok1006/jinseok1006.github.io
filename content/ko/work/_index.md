@@ -18,7 +18,7 @@ sections:
       - title: Computer Science Student
         company: Chonbuk National University
         company_url: ''
-        company_logo: univ
+        # company_logo: univ
         location: Jeonju, South Korea
         date_start: '2022-03-01'  # 학부 시작일
         date_end: ''  # 현재 재학 중
@@ -27,7 +27,7 @@ sections:
       - title: Research Assistant
         company: Operating Systems Research Lab
         company_url: ''
-        company_logo: univ
+        # company_logo: univ
         location: Jeonju, South Korea
         date_start: '2023-09-01'  # 연구실 시작일
         date_end: ''
