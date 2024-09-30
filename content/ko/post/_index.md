@@ -2,10 +2,10 @@
 title: Latest News
 
 # Listing view
-view: community/article-grid
+view: community/date-title-summary
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''
-  image: ''
+  image: 'working.jpg'
 ---
