@@ -60,7 +60,7 @@ sections:
         - title: CSAI Hacking Contest 2nd place
           certificate_url: 
           date_end: ''
-          date_start: '2023/12/21'
+          date_start: '2023-12-21'
           description: Formulated informed blockchain models, hypotheses, and use cases.
           icon: univ
           organization: Dept of Computer Science and Articial Intelligence, Jeonbuk National University
