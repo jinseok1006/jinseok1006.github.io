@@ -125,7 +125,7 @@ sections:
       page_type: post
     design:
       view: community/card
-      columns: '1'
+      columns: '2'
 
   - block: accomplishments
     content:
@@ -174,14 +174,6 @@ sections:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
 
-  - block: skills
-    content:
-      title: Skills
-      text: '저는 다음과 같은 역량을 보유하고 있습니다.<br/><br/>'
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
 
   # - block: collection
   #   content:
