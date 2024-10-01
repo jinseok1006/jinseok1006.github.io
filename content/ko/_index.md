@@ -116,19 +116,16 @@ sections:
       title: Projects
       subtitle:
       text:
-      count: 5
+      count: 3
       filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
+        folders:
+          - post
       offset: 0
       order: desc
       page_type: post
     design:
       view: showcase
-      columns: '2'
+      columns: '1'
 
 
   - block: skills
