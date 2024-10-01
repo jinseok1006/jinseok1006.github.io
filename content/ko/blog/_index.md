@@ -2,7 +2,7 @@
 title: Blog
 
 # Listing view
-view: community/card
+view: list
 columns: '1'
 
 # Optional banner image (relative to `assets/media/` folder).
