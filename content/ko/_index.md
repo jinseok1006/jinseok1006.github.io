@@ -154,7 +154,7 @@ sections:
           certificate_url: 
           date_end: ''
           date_start: '2023-12-21'
-          description: 혁신적인 블록체인 모델과 가설을 개발하고 보안 및 분산 기술에서의 잠재적 사용 사례를 탐색했습니다.
+          description: CTF 기반의 대회에서 웹 해킹, OllyDbg를 활용한 역공학, 스테가노그래피 등의 기법등을 학습하고 활용했습니다.
           icon: univ
           organization: 전북대학교 컴퓨터인공지능학부
           organization_url: https://csai.jbnu.ac.kr
