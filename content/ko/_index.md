@@ -127,7 +127,7 @@ sections:
       order: desc
       page_type: post
     design:
-      view: community/card
+      view: showcase
       columns: '2'
 
 
