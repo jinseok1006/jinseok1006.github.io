@@ -3,7 +3,7 @@ title: Blog
 
 # Listing view
 view: compact
-columns: '2'
+columns: '1'
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
