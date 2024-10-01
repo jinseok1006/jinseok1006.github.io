@@ -150,7 +150,7 @@ sections:
           organization_url: https://www.dataq.or.kr
           url: ''
 
-        - title: 2위, CSAI Hakcing Contest
+        - title: 2위, 컴퓨터인공지능학부 Hakcing Contest
           certificate_url: 
           date_end: ''
           date_start: '2023-12-21'
