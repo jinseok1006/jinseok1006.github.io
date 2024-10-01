@@ -124,7 +124,7 @@ sections:
       order: desc
       page_type: post
     design:
-      view: community/card
+      view: Masonry
       columns: '2'
 
   - block: accomplishments
