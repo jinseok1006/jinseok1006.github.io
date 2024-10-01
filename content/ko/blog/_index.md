@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Blog
 
 # Listing view
 view: community/date-title-summary
