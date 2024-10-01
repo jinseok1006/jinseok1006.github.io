@@ -8,5 +8,6 @@ date: 2020-12-01
 css text justify??
 
 2. open graph는 config로 수정못하는거같은데 hooks?
+->  sharing으로 수정가능
 
 3. 

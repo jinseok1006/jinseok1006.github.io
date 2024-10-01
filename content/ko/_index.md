@@ -140,33 +140,33 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: SQL Developer Certification
+        - title: SQL Developer 자격증
           certificate_url: 
           date_end: ''
           date_start: '2024-09-20'
-          description: Successfully passed the SQL Developer certification exam, demonstrating proficiency in database management and SQL queries.
+          description: 데이터베이스 관리 및 SQL 쿼리에 대한 능력을 입증하는 SQL 개발자 자격증 시험에 합격했습니다.
           icon: kdata
-          organization: Korea Data Agency (KDATA)
+          organization: 한국 데이터 Agency (KDATA)
           organization_url: https://www.dataq.or.kr
           url: ''
-          
-        - title: 2nd Place, CSAI Hacking Contest
+
+        - title: 2위, CSAI Hakcing Contest
           certificate_url: 
           date_end: ''
           date_start: '2023-12-21'
-          description: Developed innovative blockchain models and hypotheses, and explored potential use cases in security and decentralized technologies.
+          description: 혁신적인 블록체인 모델과 가설을 개발하고 보안 및 분산 기술에서의 잠재적 사용 사례를 탐색했습니다.
           icon: univ
-          organization: Department of Computer Science and Artificial Intelligence, Jeonbuk National University
+          organization: 전북대학교 컴퓨터인공지능학부
           organization_url: https://csai.jbnu.ac.kr
           url: ''
-          
-        - title: 1st Place, IT Information Engineering Programming Contest (Freshman Division)
+
+        - title: 1위, IT지능정보공학과 프로그래밍 경진대회 (1학년 부문)
           certificate_url: 
           date_end: ''
           date_start: '2022-09-29'
-          description: Achieved top position in the programming contest for freshmen, showcasing proficiency in problem-solving and algorithm design.
+          description: 프로그래밍 경진대회에서 1위를 차지하여 문제 해결 및 알고리즘 설계 능력을 선보였습니다.
           icon: univ
-          organization: Department of IT Intelligence Information Engineering, Jeonbuk National University
+          organization: 전북대학교 IT지능정보공학과
           organization_url: https://it.jbnu.ac.kr
           url: ''
 
