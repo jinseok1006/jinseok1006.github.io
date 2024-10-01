@@ -2,7 +2,7 @@
 title: Blog
 
 # Listing view
-view: community/date-title-summary
+view: compact
 columns: '2'
 
 # Optional banner image (relative to `assets/media/` folder).
