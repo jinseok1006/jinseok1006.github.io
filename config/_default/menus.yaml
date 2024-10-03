@@ -11,23 +11,30 @@ main:
   # - name: Blog
   #   url: post
   #   weight: 20
+  - name: Blog
+    url: blog
+    weight: 20
 
   - name: Projects
     url: post
-    weight: 20
+    weight: 30
 
   - name: Experience
-    weight: 30
-  - name: Works
+    weight: 40
+  - name: Accomplishments
     parent: Experience
-    url: event
-    weight: 31
-  - name: Skill
+    url: accomplishment
+    weight: 41
+  - name: Positions
     parent: Experience
-    url: skill
-    weight: 32
+    url: position
+    weight: 42
   
+  - name: Skills
+    url: skill
+    weight: 50
+    
   
   - name: Contact
     url: contact
-    weight: 40
+    weight: 60

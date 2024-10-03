@@ -1,9 +1,9 @@
 ---
-title: Projects
+title: Blog
 
 # Listing view
-view: community/date-title-summary
-columns: '2'
+view: list
+columns: '1'
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:

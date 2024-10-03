@@ -14,32 +14,30 @@ authors:
 superuser: true
 
 # Role/position
-role: student
+role: Research Intern
 
 # Organizations/Affiliations
 organizations:
-  - name: 전북대학교 컴퓨터인공지능학부
+  - name: Jeonbuk National University Computer Science & Engineering
     url: 'https://csai.jbnu.ac.kr/csai/index.do'
 
 # Short bio (displayed in user profile at end of posts)
-bio: 연합학습 및 표현 학습을 사용한 medical 도메인에서의 딥 러닝 기법, 도메인 적응 및 테스트 타임 학습과 같은 딥 러닝 기반 컴퓨터 비전 응용, 이미지 처리 및 이미지-텍스트 캡셔닝을 포함한 의료 응용의 딥 러닝 기반 진단 등을 포함합니다.
+bio: I am currently enrolled in the Department of Computer Science at Chonbuk National University, with a deep interest in web development, virtualization technologies, and cloud infrastructure. I am focused on building web services using frameworks like NestJS and researching efficient cloud infrastructure design through virtual machines and container technologies. Additionally, I am continuously expanding my knowledge of DevOps tools and cloud technologies.
 
 interests:
-  - 인공지능 (AI)
-  - Vision & Language
-  - 의료수학 (Medical Mathematics)
-  - 항공우주 (Aerospace)
-  - 컨텐츠 (Contents)
-  - 개발 (Development & Deploy)
-
+  - Web Development
+  - Virtualization
+  - Container
+  - loud Infrastructure
+  
 education:
   courses:
-    - course: Integrated M.S. & Ph.D. in (전기전자컴퓨터공학과)
-      institution: 대구경북과학기술원 (DGIST)
-      year: 2018 - 2023
-    - course: B.S. in (전산전자공학부)
-      institution: 한동대학교
-      year: 2014 - 2018
+    - course: B.S. in (Computer Science & Engineering)
+      institution: Jeonbuk National University
+      year: 2020 ~ present
+    # - course: B.S. in (전산전자공학부)
+    #   institution: 한동대학교
+    #   year: 2014 - 2018
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,24 +46,28 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:ksl@jbnu.ac.kr'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.kr/citations?hl=ko&user=Srg-7JMAAAAJ&view_op=list_works&authuser=3&gmla=AKKJWFdKkn6oOSodKydbVjFB9IpHqHHucjz06KnXACXkcsad_elmO3TnVclXh3i46QOPtpevNt2mKEReoILewOZrWPw38nBujERgFLA6D1JXhmVcGPzUiQU4Fg
-  - icon: orcid
-    icon_pack: ai
-    link: https://orcid.org/0009-0000-7223-0903
+    link: 'mailto:jinseok1006@jbnu.ac.kr'
+  - icon: github
+    icon_pack: fab
+    link: https://www.github.com/jinseok1006
   - icon: cv
     icon_pack: ai
-    link: https://kyungsu-lee.s3.ap-northeast-2.amazonaws.com/%5BCV%5D+Kyungsu+Lee.pdf
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+    link: 'uploads/hw.pdf'
+  # - icon: file
+  #   icon_pack: fas
+  #   link: 'uploads/resume.pdf'
+  # - icon: orcid
+  #   icon_pack: ai
+  #   link: https://orcid.org/0009-0000-7223-0903
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: https://kyungsu-lee.s3.ap-northeast-2.amazonaws.com/%5BCV%5D+Kyungsu+Lee.pdf
+  # Link to a PDF of your resume/CV from the About widget.
+  # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+  
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'ksl@jbnu.ac.kr'
+email: 'jinseok1006@jbnu.ac.kr'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -76,6 +78,43 @@ user_groups:
   - admin
 
 
+skills:
+  - name: Technical
+    items:
+    - name: Python
+      description: ''
+      percent: 60
+      icon: python
+      icon_pack: fab
+    - name: Node.js
+      description: ''
+      percent: 70
+      icon: node
+      icon_pack: fab
+    - name: React
+      description: ''
+      percent: 70
+      icon: react
+      icon_pack: fab
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: playing Piano
+        description: ''
+        percent: 40
+        icon: music
+        icon_pack: fas
+      - name: watching movie
+        description: ''
+        percent: 50
+        icon: film
+        icon_pack: fas
+      - name: playing game
+        description: ''
+        percent: 50
+        icon: gamepad
+        icon_pack: fas
 ---
 
-Fine-Tuning Deep Learning Network for Multi-Domain and Multi-Task Applications이라는 제목의 논문으로 2023년 대구경북과학기술원에서 통합 석사 및 박사 학위를 받았습니다. 2024년에 전북대학교 컴퓨터인공지능학부에 조교수 position으로 임명받고 현재까지 근무하고 있습니다. 연구 분야는 연합학습 및 표현 학습을 사용한 medical 도메인에서의 딥 러닝 기법, 도메인 적응 및 테스트 타임 학습과 같은 딥 러닝 기반 컴퓨터 비전 응용, 이미지 처리를 포함하고 있으며, AI의 이론부터 다양한 특성화 분야의 어플리케이션까지 넓은 범위를 포함하고 있습니다. 
+I am currently enrolled in the Department of Computer Science at Chonbuk National University, with a deep interest in web development, virtualization technologies, and cloud infrastructure. I am focused on building web services using frameworks like NestJS and researching efficient cloud infrastructure design through virtual machines and container technologies. Additionally, I am continuously expanding my knowledge of DevOps tools and cloud technologies.
