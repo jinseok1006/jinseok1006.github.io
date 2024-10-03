@@ -28,7 +28,7 @@ interests:
   - Web Development
   - Virtualization
   - Container
-  - loud Infrastructure
+  - Cloud Infrastructure
   
 education:
   courses:

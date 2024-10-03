@@ -22,13 +22,8 @@ marketing:
   analytics:
     google_analytics: ''
     baidu_tongji: ''
-<<<<<<< HEAD
     google_tag_manager: ''
     microsoft_clarity: ''
-=======
-    google_tag_manager: ''
-    microsoft_clarity: ''
->>>>>>> 2da719d (Initial commit)
   verification:
     google: ''
     baidu: ''
