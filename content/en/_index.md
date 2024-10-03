@@ -28,8 +28,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 안녕하세요!
-        content: 김진석의 포트폴리오 페이지입니다!
+      - title: 👋 Hello!
+        content: Welcome to Jinseok Kim's Portfolio Page!
         align: center
         background:
           image:
@@ -39,8 +39,8 @@ sections:
           position: right
           color: '#666'
 
-      - title: 클라우드 인프라
-        content: 클라우드 인프라에 대해 학습하고 있습니다.
+      - title: Cloud Infrastructure
+        content: I am studying cloud infrastructure.
         align: left
         background:
           image:
@@ -50,8 +50,8 @@ sections:
           position: center
           color: '#555'
 
-      - title: 가상화 및 컨테이너
-        content: 가상화와 컨테이너 기술에 대해 학습하고 있습니다.
+      - title: Virtualization & Container
+        content: I am studying virtualization and container.
         align: left
         background:
           image:
@@ -61,8 +61,8 @@ sections:
           position: center
           color: '#333'
 
-      - title: 웹 개발
-        content: React를 활용한 컴포넌트식 개발에 대해 학습하고 있습니다.
+      - title: Web Development
+        content: I am studying component-based development using React.
         align: left 
         background:
           image:
@@ -82,33 +82,34 @@ sections:
 
   - block: features
     content:
-      title: <span style="font-size:75%">관심분야</span>
-      text: 저는 주로 다음과 같은 IT 분야에 관심을 가지고 공부하고 있습니다.<br><br><br>
+      title: <span style="font-size:75%">Interest</span>
+      text: I am primarily interested in and studying the following IT fields.<br><br><br>
       items:
-        - name: 가상화
+        - name: Virtualization
           icon: server
           icon_pack: fas
-          description: 서버 가상화와 클라우드 환경에서의 효율적인 자원 관리
-        - name: 컨테이너
+          description: Efficient resource management in server virtualization and cloud environments
+        - name: Containers
           icon: docker
           icon_pack: fab
-          description:  도커를 활용한 컨테이너 및 배포 간소화
-        - name: 클라우드 인프라
+          description: Simplifying containerization and deployment using Docker
+        - name: Cloud Infrastructure
           icon: cloud
           icon_pack: fas
-          description:  AWS, Openstack 등의 클라우드 플랫폼을 사용한 인프라 관리 및 서비스 배포
-        - name: 웹 개발
+          description: Managing infrastructure and deploying services using cloud platforms like AWS and OpenStack
+        - name: Web Development
           icon: globe
           icon_pack: fas
-          description: React를 이용한 컴포넌트 방식의 구조화된 웹페이지 작성
+          description: Developing structured web pages using a component-based approach with React
         - name: CI/CD
           icon: rotate
           icon_pack: fas
-          description:  도커와 연계되는 지속적 통합 및 배포
-        - name: 네트워크
+          description: Continuous integration and deployment connected with Docker
+        - name: Networking
           icon: network-wired
           icon_pack: fas
-          description:  클라우드 환경에서 사용되는 다양한 네트워크 지식
+          description: Various networking knowledge used in cloud environments
+
 
   
   - block: collection
@@ -140,33 +141,33 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: SQL Developer 자격증
+        - title: SQL Developer Certification
           certificate_url: 
           date_end: ''
           date_start: '2024-09-20'
-          description: 데이터베이스 관리 및 SQL 쿼리에 대한 능력을 입증하는 SQL 개발자 자격증 시험에 합격했습니다.
+          description: I passed the SQL Developer certification exam, demonstrating my abilities in database management and SQL queries.
           icon: kdata
-          organization: 한국데이터산업진흥원
+          organization: Korea Data Industry Agency
           organization_url: https://www.dataq.or.kr
           url: ''
 
-        - title: 2위, 컴퓨터인공지능학부 Hakcing Contest
+        - title: 2nd Place, Computer AI Department Hacking Contest
           certificate_url: 
           date_end: ''
           date_start: '2023-12-21'
-          description: CTF 기반의 대회에서 웹 해킹, OllyDbg를 활용한 역공학, 스테가노그래피 등의 기법등을 학습하고 활용했습니다.
+          description: I learned and applied techniques such as web hacking, reverse engineering with OllyDbg, and steganography in a CTF-based competition.
           icon: univ
-          organization: 전북대학교 컴퓨터인공지능학부
+          organization: Chonbuk National University Computer AI Department
           organization_url: https://csai.jbnu.ac.kr
           url: ''
 
-        - title: 1위, IT지능정보공학과 프로그래밍 경진대회 (1학년 부문)
+        - title: 1st Place, IT Intelligent Information Engineering Programming Contest (Freshman Division)
           certificate_url: 
           date_end: ''
           date_start: '2022-09-29'
-          description: 프로그래밍 경진대회에서 1위를 차지하여 문제 해결 및 알고리즘 설계 능력을 선보였습니다.
+          description: I secured first place in a programming contest, showcasing my problem-solving and algorithm design skills.
           icon: univ
-          organization: 전북대학교 IT지능정보공학과
+          organization: Chonbuk National University IT Intelligent Information Engineering Department
           organization_url: https://it.jbnu.ac.kr
           url: ''
 

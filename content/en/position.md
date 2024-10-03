@@ -45,7 +45,7 @@ sections:
           location: Jeonju, South Korea
           date_start: '2024-03-02'
           date_end: ''
-          description: 가상화 및 클라우드 환경에 대해서 공부하고 있습니다. 주로 OpenStack 환경에 대해서 다룹니다.
+          description: I am studying virtualization and cloud environments, primarily focusing on OpenStack.
 
         - title: Computer Science Student
           company: Chonbuk National University
@@ -54,7 +54,8 @@ sections:
           location: Jeonju, South Korea
           date_start: '2022-03-01'
           date_end: ''
-          description: 현재 컴퓨터공학과에 재학 중이며, 소프트웨어 개발과 연구에 집중하고 있습니다.
+          description: I am currently enrolled in the Department of Computer Science, focusing on software development and research.
+
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'

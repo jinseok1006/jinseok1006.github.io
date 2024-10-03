@@ -35,33 +35,33 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: SQL Developer 자격증
+        - title: SQL Developer Certification
           certificate_url: 
           date_end: ''
           date_start: '2024-09-20'
-          description: 데이터베이스 관리 및 SQL 쿼리에 대한 능력을 입증하는 SQL 개발자 자격증 시험에 합격했습니다.
+          description: I passed the SQL Developer certification exam, demonstrating my abilities in database management and SQL queries.
           icon: kdata
-          organization: 한국데이터산업진흥원
+          organization: Korea Data Industry Agency
           organization_url: https://www.dataq.or.kr
           url: ''
 
-        - title: 2위, 컴퓨터인공지능학부 Hakcing Contest
+        - title: 2nd Place, Computer AI Department Hacking Contest
           certificate_url: 
           date_end: ''
           date_start: '2023-12-21'
-          description: CTF 기반의 대회에서 웹 해킹, OllyDbg를 활용한 역공학, 스테가노그래피 등의 기법등을 학습하고 활용했습니다.
+          description: I learned and applied techniques such as web hacking, reverse engineering with OllyDbg, and steganography in a CTF-based competition.
           icon: univ
-          organization: 전북대학교 컴퓨터인공지능학부
+          organization: Chonbuk National University Computer AI Department
           organization_url: https://csai.jbnu.ac.kr
           url: ''
 
-        - title: 1위, IT지능정보공학과 프로그래밍 경진대회 (1학년 부문)
+        - title: 1st Place, IT Intelligent Information Engineering Programming Contest (Freshman Division)
           certificate_url: 
           date_end: ''
           date_start: '2022-09-29'
-          description: 프로그래밍 경진대회에서 1위를 차지하여 문제 해결 및 알고리즘 설계 능력을 선보였습니다.
+          description: I secured first place in a programming contest, showcasing my problem-solving and algorithm design skills.
           icon: univ
-          organization: 전북대학교 IT지능정보공학과
+          organization: Chonbuk National University IT Intelligent Information Engineering Department
           organization_url: https://it.jbnu.ac.kr
           url: ''
 

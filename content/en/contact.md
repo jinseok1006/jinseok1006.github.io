@@ -9,18 +9,19 @@ sections:
     content:
       title: Contact
       text: |-
-        연락이 필요하시다면 아래의 정보를 참고해주세요.
+        If you need to get in touch, please refer to the information below.
       email: jinseok1006@jbnu.ac.kr
       address:
-        street: 전북대학교 공과대학 7호관 618호 운영체제 연구실
-        city: 전주시
-        region: 전라북도
+        street: Room 618, Operating Systems Research Lab, Engineering Building 7, Chonbuk National University
+        city: Jeonju
+        region: Jeollabuk-do
         postcode: '54896'
-        country: 대한민국
+        country: South Korea
         country_code: KO
       coordinates:
         latitude: '35.84601324617979'
         longitude: '127.13444961966684'
+
 
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
