@@ -1,12 +1,8 @@
 ---
-title: JEduTools 포털 페이지 구축
+title: JEduTools Portal Page Development
 date: 2024-09-01
 image:
   focal_point: 'top'
 ---
 
-React를 기반으로 JEduTools에서 제공하는 서비스를 제공하는 메인페이지를 작성했습니다.
-
-<!--more-->
-
-
+I developed the main page that provides services offered by JEduTools based on React.

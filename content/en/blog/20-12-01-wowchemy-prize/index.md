@@ -1,22 +1,22 @@
 ---
-title: 웹서비스설계 내용 정리
+title: Summary of Web Service Design
 date: 2024-09-19
 ---
 
-웹브라우저 주소창에 도메인을 입력해서 웹페이지에 접근하는 과정은 이렇게 진행된다:
+The process of accessing a webpage by entering a domain into the web browser's address bar proceeds as follows:
 
-도메인 입력: 사용자가 웹 브라우저의 주소창에 도메인 이름(예: www.example.com)을 입력한다. 이 도메인은 사람이 알아보기 쉽게 만들어졌다.
+1. **Domain Input**: The user types the domain name (e.g., www.example.com) into the address bar of the web browser. This domain is designed to be human-readable.
 
-DNS 요청: 브라우저는 해당 도메인의 IP 주소를 알아내려고 DNS(Domain Name System)에 요청을 보낸다. DNS는 도메인과 그에 해당하는 IP 주소를 매칭시켜서 응답해준다.
+2. **DNS Request**: The browser sends a request to the DNS (Domain Name System) to find the IP address of the corresponding domain. DNS matches the domain with its associated IP address and responds.
 
-IP 주소 반환: DNS 서버는 그 도메인에 맞는 IP 주소(예: 192.0.2.1)를 브라우저에 돌려준다. 이 IP 주소가 실제로 웹 서버가 있는 곳이다.
+3. **IP Address Return**: The DNS server returns the IP address (e.g., 192.0.2.1) that corresponds to the domain. This IP address is the actual location of the web server.
 
-서버로 요청 전송: 브라우저는 받은 IP 주소를 이용해 그 웹 서버로 HTTP/HTTPS 요청을 보낸다. 요청은 TCP/IP 프로토콜을 통해 가고, 기본적으로 포트 80(HTTP)이나 443(HTTPS)을 사용한다.
+4. **Request Sent to Server**: The browser uses the received IP address to send an HTTP/HTTPS request to that web server. The request travels through the TCP/IP protocol, typically using port 80 (HTTP) or 443 (HTTPS).
 
-웹 서버 응답: 요청을 받은 웹 서버는 필요한 리소스들(HTML, 이미지, CSS 등)을 처리한 뒤, 응답을 웹 브라우저에 돌려보낸다.
+5. **Web Server Response**: The web server that receives the request processes the necessary resources (HTML, images, CSS, etc.) and sends a response back to the web browser.
 
-웹 페이지 렌더링: 브라우저는 받은 HTML, CSS, 자바스크립트 파일들을 해석해서 화면에 웹 페이지를 그려낸다.
+6. **Web Page Rendering**: The browser interprets the received HTML, CSS, and JavaScript files to render the webpage on the screen.
 
-사용자가 페이지를 본다: 이제 사용자가 웹 브라우저에서 요청한 웹 페이지를 볼 수 있게 된다.
+7. **User Views the Page**: The user can now see the requested webpage in the web browser.
 
-이 과정에서 IP 주소, DNS, HTTP/HTTPS 프로토콜이 큰 역할을 한다.
+In this process, IP addresses, DNS, and HTTP/HTTPS protocols play significant roles.
