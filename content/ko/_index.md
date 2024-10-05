@@ -40,7 +40,7 @@ sections:
           color: '#666'
 
       - title: 클라우드 인프라
-        content: 클라우드 인프라에 대해 학습하고 있습니다.
+        content: 클라우드 인프라 분야에서의 지식을 심화하여 효율적이고 확장 가능한 시스템을 구축하고 싶습니다.
         align: left
         background:
           image:
@@ -51,7 +51,7 @@ sections:
           color: '#555'
 
       - title: 가상화 및 컨테이너
-        content: 가상화와 컨테이너 기술에 대해 학습하고 있습니다.
+        content: 가상화 및 컨테이너 기술을 통해 자원의 효율적인 관리와 배포 자동화를 실현하고 싶습니다.
         align: left
         background:
           image:
@@ -62,7 +62,7 @@ sections:
           color: '#333'
 
       - title: 웹 개발
-        content: React를 활용한 컴포넌트식 개발에 대해 학습하고 있습니다.
+        content: 웹 개발 분야에서 최신 기술을 활용하여 사용자에게 최상의 경험을 제공하는 혁신적인 웹 솔루션을 개발하고 싶습니다.
         align: left 
         background:
           image:

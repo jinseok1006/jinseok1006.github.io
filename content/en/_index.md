@@ -40,7 +40,7 @@ sections:
           color: '#666'
 
       - title: Cloud Infrastructure
-        content: I am studying cloud infrastructure.
+        content:  I want to deepen my knowledge in cloud infrastructure to build efficient and scalable systems.
         align: left
         background:
           image:
@@ -51,7 +51,7 @@ sections:
           color: '#555'
 
       - title: Virtualization & Container
-        content: I am studying virtualization and container.
+        content: I aim to realize efficient resource management and deployment automation through virtualization and container technologies.
         align: left
         background:
           image:
@@ -62,7 +62,7 @@ sections:
           color: '#333'
 
       - title: Web Development
-        content: I am studying component-based development using React.
+        content:  I aspire to develop innovative web solutions that provide the best user experience by utilizing the latest technologies in web development.
         align: left 
         background:
           image:
