@@ -30,7 +30,7 @@ sections:
       slides:
       - title: 👋 안녕하세요!
         content: 김진석의 포트폴리오 페이지입니다!
-        align: center
+        align: justify
         background:
           image:
             filename: working.jpg
@@ -41,7 +41,7 @@ sections:
 
       - title: 클라우드 인프라
         content: 클라우드 인프라 분야에서의 지식을 심화하여 효율적이고 확장 가능한 시스템을 구축하고 싶습니다.
-        align: left
+        align: justify
         background:
           image:
             filename: datacenter.jpg
@@ -52,7 +52,7 @@ sections:
 
       - title: 가상화 및 컨테이너
         content: 가상화 및 컨테이너 기술을 통해 자원의 효율적인 관리와 배포 자동화를 실현하고 싶습니다.
-        align: left
+        align: justify
         background:
           image:
             filename: linux.jpg
@@ -63,10 +63,20 @@ sections:
 
       - title: 웹 개발
         content: 웹 개발 분야에서 최신 기술을 활용하여 사용자에게 최상의 경험을 제공하는 혁신적인 웹 솔루션을 개발하고 싶습니다.
-        align: left 
+        align: justify 
         background:
           image:
             filename: coding.jpg
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333'
+      - title: DevOps 및 자동화
+        content: DevOps 도구와 자동화 파이프라인을 활용하여 소프트웨어 개발 및 운영 프로세스의 효율성을 극대화하고 싶습니다.
+        align: justify
+        background:
+          image:
+            filename: devops.jpg
             filters:
               brightness: 0.5
           position: center

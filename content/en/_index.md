@@ -30,7 +30,7 @@ sections:
       slides:
       - title: 👋 Hello!
         content: Welcome to Jinseok Kim's Portfolio Page!
-        align: center
+        align: justify
         background:
           image:
             filename: working.jpg
@@ -41,7 +41,7 @@ sections:
 
       - title: Cloud Infrastructure
         content:  I want to deepen my knowledge in cloud infrastructure to build efficient and scalable systems.
-        align: left
+        align: justify
         background:
           image:
             filename: datacenter.jpg
@@ -52,7 +52,7 @@ sections:
 
       - title: Virtualization & Container
         content: I aim to realize efficient resource management and deployment automation through virtualization and container technologies.
-        align: left
+        align: justify
         background:
           image:
             filename: linux.jpg
@@ -63,7 +63,7 @@ sections:
 
       - title: Web Development
         content:  I aspire to develop innovative web solutions that provide the best user experience by utilizing the latest technologies in web development.
-        align: left 
+        align: justify 
         background:
           image:
             filename: coding.jpg
@@ -71,6 +71,17 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
+      - title: DevOps and Automation
+        content: I aim to maximize the efficiency of software development and operations processes by leveraging DevOps tools and automation pipelines.
+        align: justify
+        background:
+          image:
+            filename: devops.jpg
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333'
+
 
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
