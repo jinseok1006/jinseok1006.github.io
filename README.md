@@ -50,10 +50,7 @@ cd jinseok1006.github.io
 
 ## 배포
 레포지토리에 push하면 Github actions에 의해서 github pages로 자동 배포됩니다.
-보통은 아래의 경로로 배포됩니다.
-```
-https://{username}.github.io/wsd-hw1-bootstrap
-```
+
 
 
 ## 라이선스
@@ -63,5 +60,4 @@ https://{username}.github.io/wsd-hw1-bootstrap
 문의 사항이 있으면 언제든지 연락해 주세요!
 
 - 이메일: [jinseok1006@naver.com](mailto:jinseok1006@naver.com)
-- GitHub: [github.com/jinseok1006](https://github.com/jinseok1006)
 
